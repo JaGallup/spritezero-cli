@@ -1,5 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40mapbox%2Fspritezero-cli.svg)](https://badge.fury.io/js/%40mapbox%2Fspritezero-cli)
-[![build status](https://secure.travis-ci.org/mapbox/spritezero-cli.svg?branch=master)](http://travis-ci.org/mapbox/spritezero-cli)
+_(This is a fork of [Mapbox's spritezero-cli](https://github.com/mapbox/spritezero). The original repo is no longer maintained and fails to install, but as of 2019-11-05 this copy works.)_
 
 # spritezero-cli
 
@@ -7,7 +6,7 @@ A command-line interface to [spritezero](https://github.com/mapbox/spritezero).
 
 ## Installation
 
-    npm install -g @mapbox/spritezero-cli
+    npm install git+https://git@github.com/JaGallup/spritezero-cli.git
 
 ## Usage
 
